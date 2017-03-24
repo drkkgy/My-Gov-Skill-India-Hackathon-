@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/85e4b74a768e60a83920f05156e75e3ab0d4dc77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b386fa9d4054ce936fa35dff7e8893f1b1a121ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_63502b98c79e8afaaa0f8000163e684d5b075b70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/2f63bfd1532a780b5b649fb1cb26f64739afbd2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_181b61d7213138ca64d1e2156f57981aeb72cc4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/b91e55b0c32f1190e971e44f497f41830ba513f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_131dd6c6655a336c2bc8c9111496ac2fa798b629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ee6a9caaa1eb62fa90d202666967c06165ca649/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/b6d0895c4ac425a8519f5b6ed352776b70cee581/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98dbff012287f6df2d35fe24ea2de518e12afcab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_1c896128cf1e1b89d5d82db967bc656f3af8ff6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/931a4d948d17c9f164c5c5e3b8324eba29c5a04c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8d2d1112e1fc714ff8f0db6f1386084c12f8b49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/344698f456b028710b02dec57c9f7e34e5a40500/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6efa5b3c429ad6a24b4485173968a8f0d00b96d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/1dee8bccfa9be481512422c86cdf7c5e0e70178c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a284cbf022dcb75147e6cb7c8698c3438a8ff99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/a953cd63768aee8215724022156431e60506df3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3628f4dcc6741e5cf13e5b0a430f78605008978/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce6a819cb5f7eec901d6f80f924b7ce96f46c7b">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cde3c33f4ea6275824a9dd6f12e0585f0527d724/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/4c9af775b6917e089040384c6be0c26ae9d75e9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9295cfacb158b0b7e16b82d5260e2b308dc92edf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/c996414560f1bf1b3c3b131f17954abcf0979b6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96c62147bbab751e52a25caeee278631310c0e8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drk.gyadav/.android/build-cache/0e37674a6c135e3a24c3e748efa0e387763e4e98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/drk.gyadav/AndroidStudioProjects/MyGovSkill-India/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b69f030ed0d3d1381f47c83738bd0ac1d30cef2/classes.dex" />
+    </item>
+
+</items>
